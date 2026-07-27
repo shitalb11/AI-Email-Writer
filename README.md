@@ -25,11 +25,13 @@ Email-Writer/
 • JavaScript
 
 **Features**
-• AI-generated email responses
-• Chrome extension integration
-• Modern frontend UI
-• Backend API support
-• Real-time email generation
+✔ AI Generated Email Replies
+✔ Professional Tone
+✔ Chrome Extension Support
+✔ React Frontend
+✔ Spring Boot Backend
+✔ REST API
+✔ Responsive UI
 
 **Installation**
 1) Clone Repository
