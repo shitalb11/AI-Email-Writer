@@ -52,7 +52,7 @@ chrome://extensions
 **Author**
 • Shital Bhosale
 • GitHub:
-https://github.com/shitalb11?utm_source=chatgpt.co
+https://github.com/shitalb11
 
 **Future Improvements**
 • Authentication
